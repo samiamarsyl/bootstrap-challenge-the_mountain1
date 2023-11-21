@@ -7,7 +7,12 @@
     
 }
  
-.navbar-brand div
-{
+.navbar-brand div {
+    width: 40%;
+}
 
+.navbar-brand p {
+    margin-bottom: 0;
+    font-size: 24px;
+    padding: 2%;
 }
